@@ -1,6 +1,6 @@
 
 import MetaTrader5 as mt5
-account = **********
+account = ***********
 password = "********"
 server = "MetaQuotes-Demo" 
 
